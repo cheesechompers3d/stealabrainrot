@@ -1,0 +1,357 @@
+{
+  "defaultGame": "steal-a-brainrot",
+  "games": [
+    {
+      "slug": "steal-a-brainrot",
+      "title": "Steal a Brainrot",
+      "description": "Experience Steal a Brainrot, a thrilling and fast-paced game where players compete to steal \"Brainrot\" from each other while protecting their own. With chaotic gameplay, hilarious moments, and intense competition, Steal a Brainrot has become a favorite among gamers worldwide!",
+      "icon": "/images/hot_game/steal-a-brainrot.png",
+      "url": "https://www.roblox.com/games/109983668079237/Steal-a-Brainrot",
+      "previewImage": "/images/hot_game/steal-a-brainrot.png",
+      "type": "action"
+    },
+    {
+      "slug": "ethnoguessr",
+      "title": "EthnoGuessr",
+      "description": "Experience EthnoGuessr, an educational geography-based guessing game where you identify ethnic groups from composite facial averages. Test your knowledge of human diversity and learn about different cultures through this unique anthropological adventure!",
+      "icon": "/images/hot_game/ethnoguessr.png",
+      "url": "https://www.ethnoguessr.com",
+      "previewImage": "/images/hot_game/ethnoguessr.png",
+      "type": "educational"
+    },
+    {
+      "slug": "scrandle",
+      "title": "Scrandle",
+      "description": "Experience Scrandle, a delightful daily food comparison game where you guess which dish is more popular based on community votes. Explore global cuisine, test your food intuition, and learn about different cultures through this engaging culinary adventure!",
+      "icon": "/images/hot_game/scrandle.png",
+      "url": "https://scrandle.com/",
+      "previewImage": "/images/hot_game/scrandle.png",
+      "type": "trivia"
+    },
+    {
+      "slug": "merge-rot",
+      "title": "Merge Rot",
+      "description": "Experience Merge Rot, a wildly chaotic and brain-melting merge game that breaks the mold of boring mechanics. Drop items into a cup and watch them evolve into increasingly bizarre and hilarious forms in this viral sensation!",
+      "icon": "/images/hot_game/merge-rot.png",
+      "url": "https://game.azgame.io/merge-brainrot/",
+      "previewImage": "/images/hot_game/merge-rot.png",
+      "type": "puzzle"
+    },
+    {
+      "slug": "wacky-flip",
+      "title": "Wacky Flip",
+      "description": "Experience Wacky Flip, an exciting arcade-style game that challenges your reflexes and timing. Guide colorful characters through a series of increasingly challenging levels, flipping and jumping to collect points and avoid obstacles.",
+      "icon": "/images/hot_game/wacky-flip.png",
+      "url": "https://1games.io/embed/wacky-flip",
+      "previewImage": "/images/hot_game/wacky-flip.png",
+      "type": "arcade"
+    },
+    {
+      "slug": "merge-fellas",
+      "title": "Merge Fellas",
+      "description": "Experience Merge Fellas, an addictive merging game where you combine identical characters to create more powerful ones. Discover the unique merging mechanics of Merge Fellas and enjoy endless fun!",
+      "icon": "/images/hot_game/merge-fellas.png",
+      "url": "https://merge-fellas.com/game",
+      "previewImage": "/images/hot_game/merge-fellas.png",
+      "type": "puzzle"
+    },
+    {
+      "slug": "brainrotclicker",
+      "title": "Brainrot Clicker",
+      "description": "Experience Brainrot Clicker, a mind-bending clicker game that challenges your reflexes and strategic thinking. With its addictive gameplay mechanics and deep progression system, it's perfect for both casual and hardcore players!",
+      "icon": "/images/hot_game/brainrotclicker.jpg",
+      "url": "https://brainrotclicker.io/italian-brainrot-clicker.embed",
+      "previewImage": "/images/hot_game/brainrotclicker.jpg",
+      "type": "action"
+    },   
+       
+    {
+      "slug": "cheese-chompers-3d",
+      "title": "Cheese Chompers 3D",
+      "description": "A thrilling 3D maze adventure where you guide a cute mouse through challenging cheese mazes, collecting power-ups and avoiding obstacles.",
+      "icon": "/images/hot_game/Cheese Chompers 3D.jpg",
+      "url": "https://rawcdn.githack.com/gn-math/assets/main/165/index.html",
+      "previewImage": "/images/hot_game/Cheese Chompers 3D.jpg",
+      "type": "action"
+    },
+    {
+      "slug": "crazy-chicken-3d",
+      "title": "Crazy Chicken 3D",
+      "description": "An exciting 3D adventure game featuring crazy chickens in a dynamic world full of challenges and fun.",
+      "icon": "/images/hot_game/Crazy Chicken 3D.jpg",
+      "url": "https://html-classic.itch.zone/html/13448030/crazychicken%20web%20port/index.html",
+      "previewImage": "/images/hot_game/Crazy Chicken 3D.jpg",
+      "type": "action"
+    },
+    {
+      "slug": "crazy-kitty-3d",
+      "title": "Crazy Kitty 3D",
+      "description": "A delightful 3D game where you control mischievous kitties through various adventures and challenges.",
+      "icon": "/images/hot_game/Crazy Kitty 3D.jpg",
+      "url": "https://html-classic.itch.zone/html/13447164/Website/index.html",
+      "previewImage": "/images/hot_game/Crazy Kitty 3D.jpg",
+      "type": "action"
+    },
+    {
+      "slug": "party-animals",
+      "title": "Party Animals",
+      "description": "A hilarious multiplayer party game where cute animals battle it out in various game modes.",
+      "icon": "/images/hot_game/data image game party-animals.jpg.png",
+      "url": "https://chillguyclicker.io/animal-rampage-3d.embed",
+      "previewImage": "/images/hot_game/data image game party-animals.jpg.png",
+      "type": "party"
+    },
+    {
+      "slug": "totally-accurate-battle-simulator",
+      "title": "Totally Accurate Battle Simulator",
+      "description": "A physics-based battle simulator where you create epic battles with wacky warriors.",
+      "icon": "/images/hot_game/data image game totally-accurate-battle-simulator.jpg.png",
+      "url": "https://crazycattle-3d.io/totally-accurate-battle-simulator.embed",
+      "previewImage": "/images/hot_game/data image game totally-accurate-battle-simulator.jpg.png",
+      "type": "simulation"
+    },
+    {
+      "slug": "super-auto-pets",
+      "title": "Super Auto Pets",
+      "description": "An auto-battler game featuring adorable pets with unique abilities and strategies.",
+      "icon": "/images/hot_game/data image game super-auto-pets.jpg.png",
+      "url": "https://www.crazygames.com/embed/super-auto-pets",
+      "previewImage": "/images/hot_game/data image game super-auto-pets.jpg.png",
+      "type": "strategy"
+    },
+    {
+      "slug": "stumble-guys",
+      "title": "Stumble Guys",
+      "description": "A multiplayer knockout game where you race through obstacles and challenges.",
+      "icon": "/images/hot_game/data image game stumble-guys-game.jpg.png",
+      "url": "https://crazycattle-3d.io/stumble-guys.embed",
+      "previewImage": "/images/hot_game/data image game stumble-guys-game.jpg.png",
+      "type": "party"
+    },
+    {
+      "slug": "build-royale",
+      "title": "Build Royale",
+      "description": "A building and battle royale game where you construct and fight your way to victory.",
+      "icon": "/images/hot_game/data image game build-royale.jpg.png",
+      "url": "https://www.crazygames.com/embed/buildroyale-io",
+      "previewImage": "/images/hot_game/data image game build-royale.jpg.png",
+      "type": "battle"
+    },
+    {
+      "slug": "smash-karts",
+      "title": "Smash Karts",
+      "description": "A fun multiplayer kart racing game with combat elements and power-ups.",
+      "icon": "/images/hot_game/data image game smash-karts-game.jpg.png",
+      "url": "https://crazycattle-3d.io/smash-karts.embed",
+      "previewImage": "/images/hot_game/data image game smash-karts-game.jpg.png",
+      "type": "racing"
+    },
+    {
+      "slug": "animal-rampage-3d",
+      "title": "Animal Rampage 3D",
+      "description": "A chaotic 3D game where animals cause mayhem and destruction in an open world.",
+      "icon": "/images/hot_game/data image game animal-rampage-3d.jpg.png",
+      "url": "https://chillguyclicker.io/animal-rampage-3d.embed",
+      "previewImage": "/images/hot_game/data image game animal-rampage-3d.jpg.png",
+      "type": "action"
+    },
+    {
+      "slug": "fall-guys",
+      "title": "Fall Guys",
+      "description": "A massively multiplayer party game with silly obstacles and competitive fun.",
+      "icon": "/images/hot_game/Fall Guys.jpg",
+      "url": "https://www.crazygames.com/embed/ball-guys",
+      "previewImage": "/images/hot_game/Fall Guys.jpg",
+      "type": "party"
+    },
+    {
+      "slug": "crazy-sheep-3d",
+      "title": "Crazy Sheep 3D",
+      "description": "A wild 3D adventure where you control sheep through various challenges and obstacles.",
+      "icon": "/images/hot_game/Crazy Sheep 3D.jpg",
+      "url": "https://play.gamepix.com/crazy-sheep/embed?sid=e4515",
+      "previewImage": "/images/hot_game/Crazy Sheep 3D.jpg",
+      "type": "action"
+    },
+    {
+      "slug": "crazy-cattle-3d-plus",
+      "title": "Crazy Cattle 3D+",
+      "description": "An enhanced version of Crazy Cattle 3D with new features and improved gameplay.",
+      "icon": "/images/hot_game/Crazy Cattle 3D+.jpg",
+      "url": "https://crazycattle-3d.io/crazy-cattle-3d-.embed",
+      "previewImage": "/images/hot_game/Crazy Cattle 3D+.jpg",
+      "type": "action"
+    },
+    {
+      "slug": "crazy-cattle-3d-web",
+      "title": "Crazy Cattle 3D Web Port",
+      "description": "The web-optimized version of Crazy Cattle 3D for seamless browser gameplay.",
+      "icon": "/images/hot_game/Crazy Cattle 3D Web Port.jpg",
+      "url": "https://html-classic.itch.zone/html/13447164/Website/index.html",
+      "previewImage": "/images/hot_game/Crazy Cattle 3D Web Port.jpg",
+      "type": "action"
+    },
+    {
+      "slug": "crazy-cattle-3d-deluxe",
+      "title": "Crazy Cattle 3D Deluxe",
+      "description": "A premium version of Crazy Cattle 3D with exclusive content and features.",
+      "icon": "/images/hot_game/crazy-cattle-3d-deluxe.jpg",
+      "url": "https://crazycattle-3d.io/crazy-cattle-3d-deluxe.embed",
+      "previewImage": "/images/hot_game/crazy-cattle-3d-deluxe.jpg",
+      "type": "action"
+    },
+    {
+      "slug": "crazy-sprunki-3d",
+      "title": "Crazy Sprunki 3D",
+      "description": "An exciting 3D adventure featuring the lovable Sprunki character in a world of challenges.",
+      "icon": "/images/hot_game/Crazy Sprunki 3D.jpg",
+      "url": "https://crazycattle-3d.io/crazy-sprunki-3d.embed",
+      "previewImage": "/images/hot_game/Crazy Sprunki 3D.jpg",
+      "type": "action"
+    },
+    {
+      "slug": "sprunki-spruted-remastered",
+      "title": "Sprunki Spruted Remastered",
+      "description": "A remastered version of the classic game with enhanced graphics and gameplay.",
+      "icon": "/images/hot_game/Sprunki-Spruted-Remastered.png",
+      "url": "https://wowtbc.net/sprunkin/spruted-remastered/index.html",
+      "previewImage": "/images/hot_game/Sprunki-Spruted-Remastered.png",
+      "type": "action"
+    },
+    {
+      "slug": "sprunki-skibidi-toilet-remake",
+      "title": "Sprunki Skibidi Toilet Remake 4.5",
+      "description": "An entertaining remake with unique gameplay mechanics and challenges.",
+      "icon": "/images/hot_game/Sprunki-Skibidi-Toilet-Remake-4.5.png",
+      "url": "https://wowtbc.net/sprunkin/skibidi-toilet4.5/index.html",
+      "previewImage": "/images/hot_game/Sprunki-Skibidi-Toilet-Remake-4.5.png",
+      "type": "action"
+    },
+    {
+      "slug": "2048-italian-brainrot",
+      "title": "2048 Italian Brainrot",
+      "description": "Experience 2048 Italian Brainrot, a unique twist on the classic 2048 puzzle game with an Italian theme. Combine numbers, unlock special Italian-themed tiles, and challenge your brain with this addictive puzzle adventure!",
+      "icon": "/images/hot_game/2048 Italian Brainrot.png",
+      "url": "https://2048italianbrainrot.itch.io/2048-italian-brainrot",
+      "previewImage": "/images/hot_game/2048 Italian Brainrot.png",
+      "type": "puzzle"
+    },
+    {
+      "slug": "italian-brainrot-clicker-2",
+      "title": "Italian Brainrot Clicker 2",
+      "description": "Experience Italian Brainrot Clicker 2, the highly anticipated sequel that takes meme clicking to the next level! Featuring new Italian Brainrot characters, enhanced clicking mechanics, and an expanded meme universe.",
+      "icon": "/images/hot_game/Italian Brainrot Clicker 2.png",
+      "url": "https://1games.io/game/italian-brainrot-clicker-2",
+      "previewImage": "/images/hot_game/Italian Brainrot Clicker 2.png",
+      "type": "clicker"
+    },
+    {
+      "slug": "speed-stars",
+      "title": "Speed Stars",
+      "description": "Experience Speed Stars, the ultimate physics-based running game that challenges your reflexes and coordination. Master the perfect rhythm, compete against friends, and push your limits!",
+      "icon": "/images/hot_game/speed-stars.jpg",
+      "url": "https://speedstars.io/play",
+      "previewImage": "/images/hot_game/speed-stars.jpg",
+      "type": "sports"
+    },
+    {
+      "slug": "crazy-cow-3d",
+      "title": "Crazy Cow 3D",
+      "description": "Experience Crazy Cow 3D, the ultimate battle royale game where you become a rebellious cow on a mission of destruction. Unleash chaos, master destructive combos, and compete for the title of the most devastating bovine!",
+      "icon": "/images/hot_game/crazy-cow-3d.jpg",
+      "url": "https://crazycow3d.io/play",
+      "previewImage": "/images/hot_game/crazy-cow-3d.jpg",
+      "type": "action"
+    },
+    {
+      "slug": "flying-gorilla",
+      "title": "Flying Gorilla",
+      "description": "Experience Flying Gorilla, an addictive 3D arcade adventure where you soar through vibrant rainforests, collect bananas, and unlock unique costumes. Master the art of flight in this endless runner!",
+      "icon": "/images/hot_game/flying-gorilla.jpg",
+      "url": "https://flyinggorilla.io/play",
+      "previewImage": "/images/hot_game/flying-gorilla.jpg",
+      "type": "arcade"
+    },
+    {
+      "slug": "go-chicken-go",
+      "title": "Go Chicken Go",
+      "description": "Experience Go Chicken Go, a thrilling arcade adventure where you guide 25 unique chickens across dangerous highways and rivers. Master timing, collect power-ups, and use strategy to save your flock!",
+      "icon": "/images/hot_game/Go-Chicken-Go.png",
+      "url": "https://gochickengo.io/",
+      "previewImage": "/images/hot_game/Go-Chicken-Go.png",
+      "type": "arcade"
+    },
+    {
+      "slug": "crazy-cow-3d-unblocked",
+      "title": "Crazy Cow 3D Unblocked",
+      "description": "Experience Crazy Cow 3D Unblocked, a physics-based battle royale where explosive cows compete for supremacy across dynamic arenas. Master momentum, conquer unique maps, and become the ultimate bovine champion!",
+      "icon": "/images/hot_game/crazy-cow-3d-unblocked.jpg",
+      "url": "https://crazycow3dunblocked.io/play",
+      "previewImage": "/images/hot_game/crazy-cow-3d-unblocked.jpg",
+      "type": "action"
+    },
+    {
+      "slug": "forest-mouse",
+      "title": "Forest Mouse",
+      "description": "Dive into Forest Mouse, an exciting adventure where you guide a clever mouse through enchanted woods, solving puzzles and collecting treasures. Master intuitive controls and strategic gameplay!",
+      "icon": "/images/hot_game/forest-mouse.jpg",
+      "url": "https://game.azgame.io/forest-mouse",
+      "previewImage": "/images/hot_game/forest-mouse.jpg",
+      "type": "adventure"
+    },
+    {
+      "slug": "bridge-race",
+      "title": "Bridge Race",
+      "description": "Experience Bridge Race, an exciting multiplayer competitive building game where you collect blocks to construct bridges while outsmarting rivals. Use strategy and skill to be the first to complete your bridge!",
+      "icon": "/images/hot_game/bridge-race.png",
+      "url": "https://www.crazygames.com/embed/bridge-race",
+      "previewImage": "/images/hot_game/bridge-race.png",
+      "type": "action"
+    },
+    {
+      "slug": "capybara-clicker",
+      "title": "Capybara Clicker",
+      "description": "Experience Capybara Clicker, an addictive clicker game where you multiply the capybara population through strategic clicking and upgrades. Build your capybara empire, unlock unique outfits, and become the ultimate capybara master!",
+      "icon": "/images/hot_game/capybara-clicker.png",
+      "url": "https://www.crazygames.com/embed/capybara-clicker",
+      "previewImage": "/images/hot_game/capybara-clicker.png",
+      "type": "clicker"
+    },
+    {
+      "slug": "count-masters-stickman-games",
+      "title": "Count Masters: Stickman Games",
+      "description": "Experience Count Masters: Stickman Games, an exciting fast-paced running game where you lead an army of stickmen through challenging levels. Multiply your forces, battle rival crowds, and claim victory in this action-packed adventure!",
+      "icon": "/images/hot_game/count-masters-stickman-games.png",
+      "url": "https://www.crazygames.com/embed/count-masters-stickman-games",
+      "previewImage": "/images/hot_game/count-masters-stickman-games.png",
+      "type": "action"
+    },
+    {
+      "slug": "escape-road-city",
+      "title": "Escape Road City",
+      "description": "Drive through the crowded streets of Escape Road City, avoiding traffic and city hazards. Test your reflexes in a thrilling city chase!",
+      "icon": "/images/hot_game/escape-road-city.png",
+      "url": "https://1games.io/game/escape-road-city/",
+      "previewImage": "/images/hot_game/escape-road-city.png",
+      "type": "action"
+    },
+    {
+      "slug": "openguessr",
+      "title": "OpenGuessr",
+      "description": "Challenge your geography skills with OpenGuessr, an immersive geo-guessing game. Explore random locations, analyze clues, and pinpoint your spot on the map. Play solo, compete in duels, or join multiplayer events.",
+      "icon": "/images/hot_game/openguessr.png",
+      "url": "https://www.crazygames.com/embed/openguessr",
+      "previewImage": "/images/hot_game/openguessr.png",
+      "type": "puzzle"
+    },
+    {
+      "slug": "worldguessr",
+      "title": "WorldGuessr",
+      "description": "Experience WorldGuessr, a free alternative to Geoguessr that challenges your geography skills through immersive Street View exploration. Analyze environmental clues, explore random global locations, and test your world knowledge in this engaging quiz game.",
+      "icon": "/images/hot_game/worldguessr.png",
+      "url": "https://www.crazygames.com/embed/worldguessr",
+      "previewImage": "/images/hot_game/worldguessr.png",
+      "type": "puzzle"
+    }
+  ]
+} 
