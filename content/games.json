@@ -174,15 +174,6 @@
       "type": "action"
     },
     {
-      "slug": "crazy-cattle-3d-plus",
-      "title": "Crazy Cattle 3D+",
-      "description": "An enhanced version of Crazy Cattle 3D with new features and improved gameplay.",
-      "icon": "/images/hot_game/Crazy Cattle 3D+.jpg",
-      "url": "https://crazycattle-3d.io/crazy-cattle-3d-.embed",
-      "previewImage": "/images/hot_game/Crazy Cattle 3D+.jpg",
-      "type": "action"
-    },
-    {
       "slug": "crazy-cattle-3d-web",
       "title": "Crazy Cattle 3D Web Port",
       "description": "The web-optimized version of Crazy Cattle 3D for seamless browser gameplay.",
@@ -270,15 +261,6 @@
       "icon": "/images/hot_game/flying-gorilla.jpg",
       "url": "https://flyinggorilla.io/play",
       "previewImage": "/images/hot_game/flying-gorilla.jpg",
-      "type": "arcade"
-    },
-    {
-      "slug": "go-chicken-go",
-      "title": "Go Chicken Go",
-      "description": "Experience Go Chicken Go, a thrilling arcade adventure where you guide 25 unique chickens across dangerous highways and rivers. Master timing, collect power-ups, and use strategy to save your flock!",
-      "icon": "/images/hot_game/Go-Chicken-Go.png",
-      "url": "https://gochickengo.io/",
-      "previewImage": "/images/hot_game/Go-Chicken-Go.png",
       "type": "arcade"
     },
     {

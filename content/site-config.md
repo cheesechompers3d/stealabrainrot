@@ -24,7 +24,7 @@ footer:
     - title: "Quick Links"
       links:
         - text: "GitHub"
-          url: "https://github.com/ethnoguessr/ethnoguessr"
+          url: "https://github.com/stealabrainrot/stealabrainrot"
         - text: "Privacy Policy"
           url: "/privacy-policy"
         - text: "Terms of Service"
