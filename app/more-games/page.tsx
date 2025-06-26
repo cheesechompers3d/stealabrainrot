@@ -3,9 +3,8 @@
 import { useState } from "react"
 import Navbar from "@/components/Navbar"
 import Footer from "@/components/Footer"
-import Image from "next/image"
-import { useRouter } from "next/navigation"
 import { games, GameData, getGameSlug } from "@/data/games"
+import { useRouter } from "next/navigation"
 
 type GameType = "New Mods" | "Popular Mods"
 
@@ -88,11 +87,12 @@ export default function MoreGames() {
                     className="block bg-gray-800 rounded-lg overflow-hidden hover:transform hover:scale-105 transition-transform duration-300 cursor-pointer"
                   >
                     <div className="relative h-36">
-                      <Image
+                      <img
                         src={game.icon}
                         alt={game.name}
-                        fill
-                        className="object-cover"
+                        className="object-cover w-full h-full absolute inset-0"
+                        style={{objectFit: 'cover'}}
+                        loading="lazy"
                       />
                     </div>
                     <div className="p-4">

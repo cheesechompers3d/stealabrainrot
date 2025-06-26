@@ -14,13 +14,15 @@ gameSettings:
   randomGamesCount: 20
 footer:
   columns:
-    - title: "Games"
+    - title: "Hot Game"
       description: ""
       links:
         - text: "More Games"
           url: "/more-games"
-        - text: "EthnoGuessr"
-          url: "/ethnoguessr"
+        - text: "Merge Rot"
+          url: "/merge-rot"
+        - text: "Merge Fellas"
+          url: "/merge-fellas"
     - title: "Quick Links"
       links:
         - text: "GitHub"
@@ -29,7 +31,7 @@ footer:
           url: "/privacy-policy"
         - text: "Terms of Service"
           url: "/terms-of-service"
-    - title: "About/Contact"
+    - title: "Contact"
       links:
         - text: "About Us"
           url: "/about-us"
