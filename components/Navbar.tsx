@@ -19,7 +19,7 @@ interface NavbarProps {
 }
 
 const navItems = [
-  { name: "Home", id: "game-frame" },
+  { name: "Home", id: "home" },
   { name: "Features", id: "features" },
   { name: "Characteristics", id: "characteristics" },
   { name: "How to Play", id: "how-to-play" },

@@ -1,6 +1,7 @@
 "use client"
 
 import { useEffect, useState } from "react"
+import { smoothScrollTo } from "@/lib/utils"
 
 interface FooterConfig {
   columns: Array<{
@@ -9,6 +10,7 @@ interface FooterConfig {
     links?: Array<{
       text: string
       url: string
+      isAnchor?: boolean
     }>
   }>
   copyright: string
@@ -30,6 +32,14 @@ export default function Footer() {
       })
   }, [])
 
+  const handleLinkClick = (link: { text: string; url: string; isAnchor?: boolean }, event: React.MouseEvent) => {
+    if (link.isAnchor) {
+      event.preventDefault()
+      const elementId = link.url.replace('#', '')
+      smoothScrollTo(elementId, 80) // 添加80px偏移量以避免被导航栏遮挡
+    }
+  }
+
   if (!config) return null
 
   return (
@@ -37,7 +47,7 @@ export default function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {config.columns.map((column, index) => (
-            <div key={index} className="text-center">
+            <div key={index} className="text-left">
               <h3 className="text-2xl font-bold text-white mb-4">{column.title}</h3>
               {column.description && (
                 <p className="text-gray-400">{column.description}</p>
@@ -48,9 +58,10 @@ export default function Footer() {
                     <li key={linkIndex}>
                       <a
                         href={link.url}
-                        className="text-blue-400 hover:text-blue-300 transition-colors"
-                        target="_blank"
-                        rel="noopener noreferrer"
+                        className="text-blue-400 hover:text-blue-300 transition-colors cursor-pointer"
+                        target={link.isAnchor ? undefined : "_blank"}
+                        rel={link.isAnchor ? undefined : "noopener noreferrer"}
+                        onClick={(e) => handleLinkClick(link, e)}
                       >
                         {link.text}
                       </a>

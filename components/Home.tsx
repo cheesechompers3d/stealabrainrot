@@ -94,7 +94,7 @@ export default function Home({ defaultGame, onGameSelect }: HomeProps) {
                   {/* Title Section */}
                   
 
-                  <div>
+                  <div id="home">
                     <GameIframe
                       game={selectedGame}
                       onGameSelect={handleGameSelect}

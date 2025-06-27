@@ -10,29 +10,63 @@ siteInfo:
   companyName: "Steal a Brainrot"
   siteUrl: "https://www.stealabrainrot.xyz"
   email: "HarryC199101@gmail.com"
+
 gameSettings:
   randomGamesCount: 20
+
 footer:
   columns:
-    - title: "Hot Game"
+    - title: "Hot Games"
       description: ""
       links:
         - text: "More Games"
           url: "/more-games"
-        - text: "Merge Rot"
-          url: "/merge-rot"
-        - text: "Merge Fellas"
-          url: "/merge-fellas"
-    - title: "Quick Links"
-      links:
         - text: "GitHub"
           url: "https://github.com/stealabrainrot/stealabrainrot"
+        - text: "Home"
+          url: "#home"
+          isAnchor: true
+        - text: "Features"
+          url: "#features"
+          isAnchor: true
+        - text: "Characteristics"
+          url: "#characteristics"
+          isAnchor: true
+        - text: "How to Play"
+          url: "#how-to-play"
+          isAnchor: true
+        - text: "Why Play"
+          url: "#why-play"
+          isAnchor: true
+        - text: "FAQ"
+          url: "#faq"
+          isAnchor: true
+    - title: "Quick Links"
+      links:
+        - text: "Cheese Chompers 3D"
+          url: "https://www.cheese-chompers-3d.com"
+        - text: "Merge Fellas"
+          url: "https://www.mergefellas.pro"
+        - text: "Squidki"
+          url: "https://www.squidki.pro"
+        - text: "EthnoGuessr"
+          url: "https://www.ethnoguessr.pro"
+        - text: "Scrandle"
+          url: "https://www.scrandle.pro"
+        - text: "Merge Fellas"
+          url: "https://www.mergefellas.pro"
+        - text: "Brainrot Clicker"
+          url: "https://www.brainrotclicker.pro"
+        - text: "Merge Rot"
+          url: "https://www.merge-rot.net"
+        - text: "Wacky Flip"
+          url: "https://www.wackyflip.pro"
+    - title: "Contact"
+      links:
         - text: "Privacy Policy"
           url: "/privacy-policy"
         - text: "Terms of Service"
           url: "/terms-of-service"
-    - title: "Contact"
-      links:
         - text: "About Us"
           url: "/about-us"
         - text: "Contact Us"
