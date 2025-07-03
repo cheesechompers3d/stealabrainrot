@@ -11,7 +11,7 @@ export const defaultConfig: SiteConfig = {
     keywords: ""
   },
   advertisement: {
-    key: ""
+    key: "40f3feb8e59a192f0894c2243daadf66"
   },
   gameSettings: {
     randomGamesCount: 20

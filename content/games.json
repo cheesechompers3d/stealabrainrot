@@ -334,6 +334,15 @@
       "url": "https://www.crazygames.com/embed/worldguessr",
       "previewImage": "/images/hot_game/worldguessr.png",
       "type": "puzzle"
+    },
+    {
+      "slug": "slice-master",
+      "title": "Slice Master",
+      "description": "Slice Master is a one-button casual game where you slice everything in sight—except the white pillars! Use your mouse or spacebar to control your knife, unlock new blades, and rack up high scores. Enjoy ASMR slicing sounds and addictive gameplay in Slice Master, the ultimate slicing challenge for web browsers!",
+      "icon": "/images/hot_game/slice-master.png",
+      "url": "https://www.crazygames.com/embed/slice-master",
+      "previewImage": "/images/hot_game/slice-master.png",
+      "type": "casual"
     }
   ]
 } 
